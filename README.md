@@ -35,9 +35,9 @@ My GitHub Data :octocat:
 
 🏆 Github Premium.
 
-📜 200+ Commits on GitHub
+📜 200+ Contributions on GitHub.
 
-🔑 5+ Git repos this year.
+🔑 20+ Commits this year.
 
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
