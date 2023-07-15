@@ -13,7 +13,7 @@
   <li>❤️ I love creating websites and working with Python.</li>
   <li>🌱 I’m currently learning and exploring advanced web development concepts.</li>
   <li>💼 I'm a web developer.</li>
-  <li>🧐 Portfolio Website: https://your-portfolio-website.com</li>
+  <li>🧐 Portfolio Website: tbd</li>
 </ul>
 
 #### A little more about me
