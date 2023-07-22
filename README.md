@@ -12,7 +12,7 @@
   <li>👋 Hi, I’m @sugeodj</li>
   <li>❤️ I love creating websites and working with Python.</li>
   <li>🌱 I’m currently learning and exploring advanced web development concepts.</li>
-  <li>💼 I'm a web/software developer.</li>
+  <li>💼 I'm a Junior Developer.</li>
   <li>🧐 Portfolio Website: tbd</li>
 </ul>
 
