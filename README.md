@@ -13,7 +13,7 @@
   <li>❤️ I love creating websites and working with Python.</li>
   <li>🌱 I’m currently learning and exploring advanced web development concepts.</li>
   <li>💼 I'm a Junior Developer.</li>
-  <li>🧐 Portfolio Website: tbd</li>
+  <li>🧐 Portfolio Website: https://sugeodj.vercel.app</li>
 </ul>
 
 #### A little more about me
