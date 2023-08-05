@@ -19,7 +19,6 @@
 #### A little more about me
 ```javascript
 const Daniel Geovanovich = {
-  pronouns: "He" | "Him",
   username: "sugeodj",
   os: "Fedora"
   languages: ["Python", "JavaScript", "HTML", "CSS", "C", "Rust"],
