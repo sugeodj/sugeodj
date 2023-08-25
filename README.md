@@ -20,7 +20,8 @@
 ```javascript
 const Daniel Geovanovich = {
   username: "sugeodj",
-  os: "Fedora"
+  os: "Arch Linux",
+  wm: "hyprland",
   languages: ["Python", "JavaScript", "HTML", "CSS", "C", "Rust"],
   interests: ["web development", "frontend development", "data analysis", "software development", "scripting"],
   technologies: {
