@@ -37,7 +37,7 @@ My GitHub Data :octocat:
 
 📜 250+ Contributions on GitHub.
 
-🔑 200+ Commits this year.
+🔑 100+ Commits this year.
 
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
