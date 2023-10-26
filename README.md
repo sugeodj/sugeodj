@@ -4,7 +4,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Developer;I'm+fluent+in+Web+Development;I'm+passionate+about+building+engaging+apps" /></a>
 </p>
 
-<p>I am a web developer with expertise in web development. I have a strong command of various programming languages and frameworks such as Python, JavaScript, HTML, CSS, and Flask.</p>
+<p>I am a junior developer with expertise in software development. I have a strong command of various programming languages and frameworks such as C, C#, Python, JavaScript, React and bash.</p>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
